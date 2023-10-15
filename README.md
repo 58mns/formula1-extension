@@ -7,7 +7,7 @@ An extension to delete or cover Max Verstappen's name from the leaderboard graph
 
 # Tools
 
-The scripts is written in JavaScript and uses a MutationObserver to manipulate the DOM.
+The script is written in JavaScript and uses a MutationObserver to manipulate the DOM.
 
 # Usage
 
