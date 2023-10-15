@@ -11,7 +11,7 @@ The scripts is written in JavaScript and uses a MutationObserver to manipulate t
 
 # Usage
 
-To use the extension in Google Chrome, you can go to your extension menu and load the folder "extension" with the option "Load Unpacked". To use the extension a refresh is needed.
+To use the extension in Google Chrome, you can go to your extension menu and load the folder "extension" with the option "Load unpacked". To use the extension a refresh is needed.
 
 !["LoadUnpacked option in the extensions menu of Chrome"](./images/LoadUnpacked.PNG)
 
@@ -19,15 +19,15 @@ To use the extension in Google Chrome, you can go to your extension menu and loa
 
 ### Before
 
-!["LoadUnpacked option in the extensions menu of Chrome"](./images/Before.PNG)
+!["Before situation"](./images/Before.PNG)
 
 ### After
 
-!["LoadUnpacked option in the extensions menu of Chrome"](./images/After.PNG)
+!["After situation"](./images/After.PNG)
 
 ### Gif
 
-!["LoadUnpacked option in the extensions menu of Chrome"](./images/Gif-EzGif.gif)
+!["Gif containing the before and after situation"](./images/Gif-EzGif.gif)
 
 # Further improvements
 
