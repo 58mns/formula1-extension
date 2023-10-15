@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Formula1MaxExtensionLive",
+  "description": "Shifts the formula 1 positions by 1 position (Max Verstappen is not shown).",
+  "version": "1.0",
+  "content_scripts": [{
+    "matches": ["*://*.auvio.rtbf.be/*", "*://*.auvio.rtbf.be/emission/formule-1-6111*"], 
+    "js": ["content-script.js"]
+    }]
+}
